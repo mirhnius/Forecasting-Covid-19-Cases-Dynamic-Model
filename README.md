@@ -16,7 +16,7 @@ After representing the above mathematical model with a Liner Dynamic System ![im
 
 - **For n=5:**
 
-The result is shown as following:
+The results are shown as follows:
 <p align="center">
   
 <img src="https://github.com/niushamir/Forecasting-Covid-19-Cases-Dynamic-Model/blob/main/probability%2C%20n%3D5.jpg" width="600" height="400">
