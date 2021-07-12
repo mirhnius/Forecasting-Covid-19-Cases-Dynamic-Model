@@ -5,3 +5,19 @@ According to the latest report of the [World Health Organization](https://www.wh
 Here is the applied model:
 
 ![image](https://user-images.githubusercontent.com/40741680/125354356-f28f7280-e378-11eb-8008-718679544b83.png)
+
+;where:
+- **n**: *Population of the society*
+- **j**: *Number of healthy individuals*
+
+
+ * #### Mathematical analysis Procedure:
+After representing the above mathematical model with a Liner Dynamic System ![image](https://user-images.githubusercontent.com/40741680/125356271-397e6780-e37b-11eb-8a68-e9cfdac6a875.png) , using the Eigenvalues, Eigenvectors and Jordan canonical form of matrix A we could find probability of the number of healthy individuals in terms of time without solving the two jointly defferential functions in a numerical manner.
+
+- **For n=5:**
+
+The result is shown as following:
+<p align="center">
+  
+<img src="https://github.com/niushamir/Forecasting-Covid-19-Cases-Dynamic-Model/blob/main/probability%2C%20n%3D5.jpg" width="600" height="400">
+  </p>
